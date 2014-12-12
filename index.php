@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         test
+        igen
         <?php
         // put your code here
         ?>
